@@ -1,1 +1,1 @@
-print("바꿔주세요::XXX")
+print("바꿔주세요::dfdfdf")
